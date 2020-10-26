@@ -1,4 +1,4 @@
-# UC-Small-Grain-Seeding-Rate-Calculator
+# UC Small Grain Seeding Rate Calculator
 
 Seeding rate is an important consideration for small grain growers at planting. There are a number of agronomic factors that help to determine the ideal seeding rate such as whether a field will be irrigated, the potential for weed pressure or lodging, the planting date, crop type, and seed germinability. In addition, there can be a large range of seed weights among different small grain varieties and from one seed lot to the next. To achieve full yield potential under irrigated conditions in California, 25 to 30 plants per square foot is a good target density for wheat. As a seeding rate this translates to approximately 1.2 million seeds per acre with a seed weight of 40 gram per thousand seeds. However, adjustments to the seeding rate are often needed based on the kernel weight and germination rate of the seed lot as well as other planting conditions.
 
