@@ -5,3 +5,5 @@ Seeding rate is an important consideration for small grain growers at planting. 
 In order to assist in the estimation of seeding rate for small grain growers, the University of California has developed a seeding rate calculator. The calculator allows growers to select their crop type, variety, and other agronomic conditions that might apply to their field. Based on these selections and the variety information measured in the UC small grain variety testing program, a seeding rate is estimated. The inputs can be easily adjusted using a series of checkboxes and sliders so that growers can easily understand how each variable influences the recommended seeding rate. The tool is available now on the UC Small Grains website:
 
 http://smallgrains.ucanr.edu/General_Production/Seeding_Rate/
+
+This repository contains the code for the R Shiny App that is embedded on this page as the UC Small Grain Seeding Rate Calculator. 
