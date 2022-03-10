@@ -7,3 +7,9 @@ In order to assist in the estimation of seeding rate for small grain growers, th
 http://smallgrains.ucanr.edu/General_Production/Seeding_Rate/
 
 This repository contains the code for the R Shiny App that is embedded on this page as the UC Small Grain Seeding Rate Calculator. 
+
+## Citation
+
+Please cite as
+
+> Nelsen, T., Mathesius, K., Rosa, G., & Lundy, M. (2020). UC Small Grain Seeding Rate Calculator [Computer software]. https://github.com/Grain-Cropping-Systems-Lab/UC-Small-Grain-Seeding-Rate-Calculator
