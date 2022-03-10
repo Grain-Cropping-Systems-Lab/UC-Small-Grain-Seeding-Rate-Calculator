@@ -1,0 +1,19 @@
+cff-version: 1.2.0
+title: 'UC Small Grain Seeding Rate Calculator'
+date-released: 2020-10-26
+url: "https://github.com/Grain-Cropping-Systems-Lab/UC-Small-Grain-Seeding-Rate-Calculator"
+message: Please cite this repository as detailed.
+type: GitHub repository
+authors:
+  - given-names: Taylor
+    family-names: Nelsen
+    email: tsnelsen@ucdavis.edu
+  - given-names: Konrad
+    family-names: Mathesius
+    email: kpmathesius@ucanr.edu
+  - given-names: Gabriel
+    family-names: Rosa
+    email: grosa@ucdavis.edu  
+  - given-names: Mark
+    family-names: Lundy
+    email: melundy@ucdavis.edu
